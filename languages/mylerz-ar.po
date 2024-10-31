@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mylerz\n"
+"POT-Creation-Date: 2021-08-16 01:48+0200\n"
+"PO-Revision-Date: 2021-08-16 01:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: templates\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/shipping/data-mylerz-settings.php:17
+msgid "Enable"
+msgstr ""
+
+#: includes/shipping/data-mylerz-settings.php:19
+msgid "Enable Mylerz shipping"
+msgstr ""
+
+#: includes/shipping/data-mylerz-settings.php:23
+msgid "Title"
+msgstr ""
+
+#: includes/shipping/data-mylerz-settings.php:25
+msgid "Title to be display on site"
+msgstr ""
+
+#: includes/shipping/data-mylerz-settings.php:26
+#: includes/shipping/mylerz-shipping-method.php:25
+msgid "Mylerz Shipping"
+msgstr ""
+
+#: includes/shipping/data-mylerz-settings.php:31
+msgid "* User Name"
+msgstr "* اسم المستخدم"
+
+#: includes/shipping/data-mylerz-settings.php:36
+msgid "* Password"
+msgstr "* كلمة السر"
+
+#: includes/shipping/mylerz-shipping-method.php:21
+msgid "Mylerz Settings"
+msgstr "اعدادات مايلرز"
+
+#: includes/shipping/mylerz-shipping-method.php:22
+msgid "Shipping Method for Mylerz"
+msgstr ""
+
+#: mylerz.php:318 mylerz.php:363 mylerz.php:384 mylerz.php:438
+msgid "Neighborhood"
+msgstr "الحي السكني"
+
+#: mylerz.php:322 mylerz.php:367 mylerz.php:388
+msgid "Select Neighborhood"
+msgstr "اختار الحي"
+
+#: mylerz.php:328 mylerz.php:373 mylerz.php:394
+msgid "Compound"
+msgstr "المجمع السكنى"
+
+#: mylerz.php:332 mylerz.php:377 mylerz.php:398
+msgid "Select Compound"
+msgstr "اختار المجمع"
+
+#: mylerz.php:509
+msgid "Update"
+msgstr ""
+
+#: templates/adminhtml/bulk.php:101
+msgid "Bulk Fulfillment by Mylerz"
+msgstr "ارسال الشحات الى مايلرز"
+
+#: templates/adminhtml/bulk.php:152 templates/adminhtml/bulk.php:292
+msgid "Select orders, please"
+msgstr ""
+
+#: templates/adminhtml/bulk.php:155 templates/adminhtml/bulk.php:295
+msgid "Cannot Fulfill Completed or Previously Fulfilled Orders.."
+msgstr ""
+
+#: templates/adminhtml/bulk_awb.php:50
+msgid "Bulk Print AWB"
+msgstr "طباعه البوليصه"
+
+#: templates/adminhtml/bulk_awb.php:148
+#: templates/adminhtml/create_pickup_order.php:131
+msgid "All Selected Orders must be fulfilled by mylerz"
+msgstr ""
+
+#: templates/adminhtml/create_pickup_order.php:43
+msgid "Create PickupOrder"
+msgstr "إنشاء طلب الاستلام"
